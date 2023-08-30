@@ -1,7 +1,9 @@
 <?php
 
+<<<<<<< HEAD
 	echo "OLa Mundo 456";
 
-	echo " meu odemy";
+	echo " meu odemy e Hcode";
 	
+
 ?>
